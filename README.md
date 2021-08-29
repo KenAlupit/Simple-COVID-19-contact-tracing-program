@@ -6,4 +6,4 @@ Features:
 - Generates unique user ID to each customer and when the same customer return it will retain the customers previous user ID.
 - Logs visitor entry date and time.
 - Page like search results wherein it only shows 10 search results at a time with a next and previous function.
-- Can search date and time at the same time or independently.
+- Administrators can search date and time at the same time or independently.
